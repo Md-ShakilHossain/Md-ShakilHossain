@@ -3,11 +3,32 @@
 <br>
 
 # I Work With:
-<div>
-    <p>I am working with React for front-end developing with the tailwind css, flowbite and daisyUi components library. For back-end developing i am working with Nodejs, MongoDB and ExpressJs.</p>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h4>Front-end Technologies:</h4>
+    <ul>
+      <li>React</li>
+      <li>Tailwind CSS</li>
+      <li>Flowbite</li>
+      <li>DaisyUi</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1;">
+    <h4>Back-end Technologies:</h4>
+    <ul>
+      <li>NodeJs</li>
+      <li>MongoDb</li>
+      <li>ExpressJs</li>
+    </ul>
+  </div>
 </div>
 
-<br>
+# Reach Me:
+Gmail:<br>
+shakilh550@gmail.com <br>
+Facebook:<br>https://web.facebook.com/shakil.bsb/
+LinkedIn:<br>https://www.linkedin.com/in/md-shakil-hossain-ba55a82a0/
 
 # Skilled On:
 
@@ -26,13 +47,25 @@
 
 # Project Details
 ## DreamJob
-#### Front-end Technologies:
-- React
-- Tailwind CSS
-- Flowbite
-#### Back-end Technologies:
-- NodeJs
-- MongoDb
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h4>Front-end Technologies:</h4>
+    <ul>
+      <li>React</li>
+      <li>Tailwind CSS</li>
+      <li>Flowbite</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1;">
+    <h4>Back-end Technologies:</h4>
+    <ul>
+      <li>NodeJs</li>
+      <li>MongoDb</li>
+    </ul>
+  </div>
+</div>
+
 #### What I Did:
 - Made a website by which people can find their desire jobs
 - Implemented search by category
@@ -53,13 +86,25 @@ https://github.com/Md-ShakilHossain/dream-jobs-server
 https://dream-jobs-405dc.web.app/
 
 ## Shakil-Tech
-#### Front-end Technologies:
-- React
-- Tailwind CSS
-- DaisyUi
-#### Back-end Technologies:
-- NodeJs
-- MongoDb
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h4>Front-end Technologies:</h4>
+    <ul>
+      <li>React</li>
+      <li>Tailwind CSS</li>
+      <li>DaisyUi</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1;">
+    <h4>Back-end Technologies:</h4>
+    <ul>
+      <li>NodeJs</li>
+      <li>MongoDb</li>
+    </ul>
+  </div>
+</div>
+
 #### What I Did:
 - It is a Mobile Brand Shop
 - Toggle between dark and light mood
@@ -76,3 +121,21 @@ https://github.com/Md-ShakilHossain/shakil-tech-server
 
 #### Live link:
 https://shakil-tech.web.app
+
+
+## Social-Event-Management
+#### Front-end Technologies:
+- React
+- Tailwind CSS
+- DaisyUi
+
+#### What I Did:
+- A website to manage social events like anniversary, birthday parties etc.
+- Made Private Route
+- Showing User information on Navbar
+- Implemented AOS animation
+#### Client side repo:
+https://github.com/Md-ShakilHossain/social-event-management
+
+#### Live link:
+https://social-event-management-22910.web.app
