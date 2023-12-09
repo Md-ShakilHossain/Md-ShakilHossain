@@ -1,10 +1,12 @@
+<link rel="stylesheet" href="readme.css">
+
 ![Md. Shakil Hossain. Web Developer!](/Images/Banner/banner.png "Md. Shakil Hossain")
 
 <br>
 
 # I Work With:
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div class="flex-container">
+  <div class="flex-item">
     <h4>Front-end Technologies:</h4>
     <ul>
       <li>React</li>
@@ -14,7 +16,7 @@
     </ul>
   </div>
 
-  <div style="flex: 1;">
+  <div class="flex-item">
     <h4>Back-end Technologies:</h4>
     <ul>
       <li>NodeJs</li>
@@ -47,8 +49,8 @@ LinkedIn:<br>https://www.linkedin.com/in/md-shakil-hossain-ba55a82a0/
 
 # Project Details
 ## DreamJob
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div class="flex-container">
+  <div class="flex-item">
     <h4>Front-end Technologies:</h4>
     <ul>
       <li>React</li>
@@ -57,7 +59,7 @@ LinkedIn:<br>https://www.linkedin.com/in/md-shakil-hossain-ba55a82a0/
     </ul>
   </div>
 
-  <div style="flex: 1;">
+  <div class="flex-item">
     <h4>Back-end Technologies:</h4>
     <ul>
       <li>NodeJs</li>
@@ -86,8 +88,8 @@ https://github.com/Md-ShakilHossain/dream-jobs-server
 https://dream-jobs-405dc.web.app/
 
 ## Shakil-Tech
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div class="flex-container">
+  <div class="flex-item">
     <h4>Front-end Technologies:</h4>
     <ul>
       <li>React</li>
@@ -96,7 +98,7 @@ https://dream-jobs-405dc.web.app/
     </ul>
   </div>
 
-  <div style="flex: 1;">
+  <div class="flex-item">
     <h4>Back-end Technologies:</h4>
     <ul>
       <li>NodeJs</li>
