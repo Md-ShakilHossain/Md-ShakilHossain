@@ -1,5 +1,5 @@
 # Overview
-![The San Juan Mountains are beautiful!](/Images/Banner/Md-Shakil-hossain.png "Md. Shakil Hossain")
+![The San Juan Mountains are beautiful!](/Images/Banner/md-Shakil-hossain.png "Md. Shakil Hossain")
 
 <p align="center">
   <a href="https://git.io/streak-stats">
