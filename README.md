@@ -3,8 +3,13 @@
 <br>
 
 # I Work With:
-<div style="display: flex;">
-  <div style="flex: 1;">
+
+#### I am working to be a full stack MERN Web Developer. To achieve the vision I am working with following technology:
+
+<div style="display: flex
+">
+ 
+  <div style="flex: 1">
     <h4>Front-end Technologies:</h4>
     <ul>
       <li>React</li>
@@ -14,7 +19,7 @@
     </ul>
   </div>
 
-  <div style="flex: 1;">
+  <div style="flex: 1">
     <h4>Back-end Technologies:</h4>
     <ul>
       <li>NodeJs</li>
@@ -47,8 +52,8 @@ LinkedIn:<br>https://www.linkedin.com/in/md-shakil-hossain-ba55a82a0/
 
 # Project Details
 ## DreamJob
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div style="display: flex">
+  <div style="flex: 1">
     <h4>Front-end Technologies:</h4>
     <ul>
       <li>React</li>
@@ -57,7 +62,7 @@ LinkedIn:<br>https://www.linkedin.com/in/md-shakil-hossain-ba55a82a0/
     </ul>
   </div>
 
-  <div style="flex: 1;">
+  <div style="flex: 1">
     <h4>Back-end Technologies:</h4>
     <ul>
       <li>NodeJs</li>
@@ -86,8 +91,8 @@ https://github.com/Md-ShakilHossain/dream-jobs-server
 https://dream-jobs-405dc.web.app/
 
 ## Shakil-Tech
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div style="display: flex">
+  <div style="flex: 1">
     <h4>Front-end Technologies:</h4>
     <ul>
       <li>React</li>
@@ -96,7 +101,7 @@ https://dream-jobs-405dc.web.app/
     </ul>
   </div>
 
-  <div style="flex: 1;">
+  <div style="flex: 1">
     <h4>Back-end Technologies:</h4>
     <ul>
       <li>NodeJs</li>
